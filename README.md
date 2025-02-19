@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rucha</h1>
-<h3 align="center">A Software Test Engineer turned full-stack developer, leveraging 8+ years of experience in automation and API testing while building and exploring new technologies. 🚀</h3>
+<h3 align="center">A Software Test Engineer turned full-stack developer, leveraging 8+ years of experience in software quality and test automation while exploring and building new technologies.🚀</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ruchagade&label=Profile%20views&color=0e75b6&style=flat" alt="ruchagade" /> </p>
 
